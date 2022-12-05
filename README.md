@@ -1,16 +1,6 @@
 
 <h2 align="center">Hello there! My name is KANG JIWON.</h2>
 
-<p align="center">
-In 2021, I started studying development for the first time
-<br/>
-and started my career as a front-end developer in March 2022.
-<br/>
-I'm adapting to this new world, and I've sworn to myself
-<br/>
-that I'll do my best to make the best possible development.
-</p>
-
 <hr>
 
 
