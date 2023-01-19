@@ -7,7 +7,7 @@
   
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://betterplaywon.github.io/)](https://betterplaywon.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://betterplaywon.github.io/)]([https://betterplaywon.github.io/](https://betterpalywon.tistory.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=[https://www.instagram.com/data.scientist/](https://www.instagram.com/ziwon_kang/))]([https://www.instagram.com/data.scientist/](https://www.instagram.com/ziwon_kang/)) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkgi1234@gmail.com)](mailto:kkgi1234@gmail.com)
 </div>
