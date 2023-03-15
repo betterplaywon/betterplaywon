@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/StyledComponents-db7093?style=flat&logo=Styled-Components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=CSS3&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Tailwind-96F2D7?style=flat&logo=Tailwind&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
